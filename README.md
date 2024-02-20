@@ -1,2 +1,2 @@
 # pixels_tool_miniwin
-Herramienta para tomar una imagen hecha en estilo pixel art y convertirla en código para dibujarla mediante la libreria miniwin 
+Tool to take a pixel art-style image and convert it into code to draw it using the miniwin library.
